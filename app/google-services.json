@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658858696735",
+    "firebase_url": "https://bookcome-60cb2.firebaseio.com",
+    "project_id": "bookcome-60cb2",
+    "storage_bucket": "bookcome-60cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658858696735:android:bfd43845cee58607",
+        "android_client_info": {
+          "package_name": "karatakushi.io.lfs_android_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658858696735-65s7feimov3qhl0huuefpdta562j2ujb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8kWYLJnzk9LxB2ZtZaHXBQg1KGK47IKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
